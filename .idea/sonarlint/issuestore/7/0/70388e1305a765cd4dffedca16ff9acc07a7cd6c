@@ -1,0 +1,8 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(„ÑñŒ8¹ï î0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÜ®íûÿÿÿÿ8ùİº£î0
+w
+java:S3008"ZRename this field "SPLASH_TIME_OUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò·ÄÒ8€Êî î0
+L
+java:S1874"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ8ƒºï î0
