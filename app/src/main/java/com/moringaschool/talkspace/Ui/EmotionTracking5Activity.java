@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.moringaschool.talkspace.R;
+
 public class EmotionTracking5Activity extends AppCompatActivity {
 
     @Override
