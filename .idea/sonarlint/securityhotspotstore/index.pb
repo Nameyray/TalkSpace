@@ -7,8 +7,6 @@ Fapp/src/main/java/com/moringaschool/talkspace/Auth/SignInActivity.java,d\4\d40
 Lapp/src/main/java/com/moringaschool/talkspace/Fragments/ProfileFragment.java,f\2\f27ffbf1cf340bdee0c0650dc01e38ece9edbeb1
 x
 Happ/src/main/java/com/moringaschool/talkspace/Auth/RegisterActivity.java,1\d\1ddb72eac827e6b0b0b4e4fe3a56a647b626b118
-{
-Kapp/src/main/java/com/moringaschool/talkspace/Fragments/ForumsFragment.java,b\5\b56879152fe705bf9b0a7b97c65182c6ba90031a
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 |

@@ -5,8 +5,6 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-{
-Kapp/src/main/java/com/moringaschool/talkspace/Fragments/ForumsFragment.java,b\5\b56879152fe705bf9b0a7b97c65182c6ba90031a
 y
 Iapp/src/main/java/com/moringaschool/talkspace/Fragments/HomeFragment.java,f\5\f56bbc2ddbbfa11d9adbdd40e30812219618577a
 |
